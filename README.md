@@ -77,3 +77,19 @@ Developed a Travel and Tourism Management System for Pawan Travels and Tourism, 
 - Minimum 500 GB Hard Disk
 
 ---
+
+## 👥 Team
+
+| Name | Role | Contact No |
+|------|------|------------|
+| Shivaji Sanjay Ajagekar | Developer | 9765941078 |
+| Shakshat Ramesh Chavan | Developer | _____|
+
+**Guide:** Prof. I. P. Sutar 
+**Institution:** Shivraj College of Arts, Commerce & D.S. Kadam Science College, Gadhinglaj
+
+---
+
+## Thank You 
+
+---
